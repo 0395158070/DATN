@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "28577655839",
+    "project_id": "apptintuc-c8e6d",
+    "storage_bucket": "apptintuc-c8e6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28577655839:android:619bfbf11ecb6da80ef92a",
+        "android_client_info": {
+          "package_name": "com.myshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28577655839-urlbhf4k69pikvvn9lqvd5hph7rskf2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-KsW-0Onbu63iRfb64uTdyLWNDYKQE6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28577655839-urlbhf4k69pikvvn9lqvd5hph7rskf2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
